@@ -1,0 +1,11 @@
+.root {
+  @apply p-4 py-4 mx-auto max-w-5xl;
+}
+
+.default {
+  @apply max-w-5xl;
+}
+
+.blog {
+  @apply max-w-2xl;
+}
