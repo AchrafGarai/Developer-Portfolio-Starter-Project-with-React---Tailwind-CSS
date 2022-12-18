@@ -2,7 +2,7 @@
 
 This project is a simple starter react app to build a developer portfolio.
 
-![React Portfolio](https://i.pinimg.com/originals/58/c3/30/58c330905a20af839f2ab21a97c125c9.jpg)
+![React Portfolio](https://i.pinimg.com/originals/65/4f/4e/654f4e49fb8b237a455e72c363836f76.gif)
 
 ## Features
 

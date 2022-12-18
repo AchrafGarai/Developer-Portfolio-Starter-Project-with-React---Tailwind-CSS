@@ -39,7 +39,7 @@ function Navbar() {
         '-top-16': !visible,
       })}
     >
-      <ul className="flex gap-16 justify-center items-center p-4 backdrop-blur-lg border-b bg-white bg-opacity-60 border-gray-200 md-gap-16">
+      <ul className="flex gap-12 justify-center items-center p-4 backdrop-blur-lg border-b bg-white bg-opacity-60 border-gray-200 md-gap-16">
         <a
           className="flex gap-4 justify-center items-center"
           href="https://github.com/AchrafGarai"
